@@ -1,0 +1,47 @@
+Quant projects experience (plus relevant research papers):
+
+•	FX Foreign Exchange:
+o	EM FX Framework (Technical + Valuation): Carry, Implied Vol factor, Real and  Leveraged Flows, Mom, Idiosyncratic risk premia, Equity markets flows. (Bertolini, 2011)
+o	G10 FX Machine Learning framework (Adaboost adaptive boost, Extra trees, RF random forest, Naïve Bayes, PCA Logistics, SVM, Tuned RF)
+	Input: Technical (EMA, Bollinger ,Commodity Channel Index , Stochastics , Williams %R , Ichimoku , RSI) and rate differentials
+o	Soft Voting – Supervised Learning - classifier to aggregate the recommendations of the ML models and select the best adjusted risk combination. (Cao, 2015)
+o	Short term STEER cointegration model and logistic regression model (Rate diff, Slope, Equity differ, etc)
+o	Replication of Fair value models REER, BEER, FEER, TEER, etc.
+
+•	Corporate Credit (IG/HY), and Sovereign Credit Default Swap (Credit):
+o	Multifactor models, Reduced and Structured form Models, CVA, Fundamental cash flows analysis, and ratio analysis 
+o	Corporate credit rating modelling using neural networks, support vector machines, and decision trees (Golbayani 2020)
+o	Predictive information in corporate bond yields (Xu Guo , 2021)
+o	Macro Fundamentals cross sectional regression Model (Current Account, GDP, Fiscal deficit, Inflation, Ratings, World Bank governance indicators)  
+o	Cross sectional regression of Principal components PCA (WB governance indicators)
+o	Regime switch detection Model (input: Financials, technical, Economics, Rating inputs. Polat, 2017)
+o	Decision Tree – Supervised Learning - and RNN model (input: Financials, Meyer-Cirkel 2019)
+
+•	Sovereign Rates (Fixed Income):
+o	Macro Factor based rates models for 10,20y,30y for Local Currency bonds. Rules based pricing. Factors based screening (Rudebusch, 2010)
+o	Hard currency issuance forecasts ( Fiscal deficit, debt to GDP, growth forecast., etc. ) and yield elasticity. 
+o	Statistical fitting (log linear) cross model of EM rates based on rating direction expectations. 
+o	Short-rate modelling: Vasicek model, Cox-Ingersoll-Ross model, Brennan and Schwartz
+o	Sovereign Spreads in Euro area based on distance of fundamentals and evolution of consensus of expectations (Favero 2012) 
+o	Scenario analysis and forecasts of pricing  of local bonds auction in Europe using intraday – minutes data (Treasury: Italy, Spain, Portugal)
+
+•	Risk Management – Portfolio Construction:
+o	Portfolio Construction Black-Litterman, Global Minimum Variance portfolio, Minimum correlation portfolio, Most diversified portoflio, Risk Parity Portfolio, Inverse Volatility Portfolio, Minimum Tail dependent portoflio
+o	Counterparty credit risk (CVA,  incremental CVA, collateral, netting, PD -EAD credit 
+o	Market risk:  VaR methodologies (parametric, historical, and Monte Carlo),  PCA, and Volatility forecasting.
+
+•	Commodities (24):
+o	Alpha Momentum (Fama and Macbeth regression methodology. Zaremba 2019)
+o	Hedging Pressure (CFTC speculators and hedgers pressure)
+o	Decision Tree Model – Supervised Learning. Inputs: EW, Roll Yields, Term structure, Skewness, Idiosyncratic Volatility, Market Beta, Inflation beta, etc.)
+
+•	Equities (Stocks):
+o	Fundamental Algorithmic trading strategies:
+	Momentum-Based/Trend-Following Strategies: Rolling Window Mean Strategy MACD Crossover Strategy, Exponentially-Weighted Moving Average, RSI + MACD, Triple Exponential Average (TRIX) Strategy, Pairs-Trading Strategy
+o	Mathematical optimization Models: Minimization of Portfolio Volatility Strategy with Monthly Trading. Maximum Sharpe Ratio Strategy with Monthly Trading
+o	Pairs Selection using Cointegration Tests & Kalman Filter
+o	Identify Long & Short Entry and Exit Dates with Kalman filter , Hedge ratio, Bollinger Bands, and 
+o	Simple Regression Tree with Time Series Data – Supervised Learning (input: return, momentum HML , SMB, CMA, RMW, Beta, RSI, MACD, sector, target) 
+
+•	Text mining analysis (RNN): to identify and quantify the hawkishness or dovishness of Central banks policy meetings  statements. 
+o	Topic Modelling: Latent Dirichlet Allocation (LDA) for a generative process for topics. LDA is a hierarchical Bayesian model that assumes topics are probability distributions over words.
